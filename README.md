@@ -4,7 +4,7 @@
 - 📫 Brenneroliveira167@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Área da Tecnologia e Desenvolvimento de Games
-  ### 🖥️ Esou aprendendo as seguintes Tecnologias : 
+  ### 🖥️ Estou Aprendendo as Seguintes Tecnologias : 
 </br>
 
 <code><img width="75px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title = "HTML"/></code>
