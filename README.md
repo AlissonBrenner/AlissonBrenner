@@ -15,6 +15,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
+
 <div>
   <a href="https://github.com/alissonbrenner">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonbrenner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
