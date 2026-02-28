@@ -1,5 +1,5 @@
 ### Ólá! Eu sou o Alisson Brenner👋
-- 🔭 Atualmente trabalho como Promotor de Vendas
+- 🔭 Atualmente Buscando Domínio na Área Tech
 - 🌱 Desenvolvedor Javascript | Java | Desenvolvimento Full Stack | ServiceNow | Cloud
 - 📫 Brenneroliveira167@gmail.com
 - 😄 Pronouns: Ele/Dele
