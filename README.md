@@ -1,10 +1,11 @@
 ### Ólá! Eu sou o Alisson Brenner👋
 - 🔭 Atualmente trabalho como Promotor de Vendas
-- 🌱 Estudando Javascript | Python | Desenvolvimento Full Stack | Análise e Desenvolvimentos de Sistemas
+- 🌱 Desenvolvedor Javascript | Java | Desenvolvimento Full Stack | ServiceNow | Cloud
 - 📫 Brenneroliveira167@gmail.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Área da Tecnologia e Desenvolvimento de Games
-  ### 🖥️ Estou Aprendendo as Seguintes Tecnologias : 
+- ⚡ Fun fact: Área da Tecnologia e Desenvolvimento Cloud
+  ### 🖥️ Estou Aprendendo a ter Domínio nas Seguintes Tecnologias :
+  
 </br>
 
 <code><img width="75px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title = "HTML"/></code>
